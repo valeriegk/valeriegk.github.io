@@ -1,0 +1,80 @@
+h1 {
+  font-family: arial;
+  text-align: center;
+  color: #BB33FF;
+  font-size: 20px;
+  font-weight: bold;
+}
+img.logo {
+  display: block;
+  margin: auto;
+  width: 20%
+}
+img.free {
+  width: 100px;
+  height: 25px;
+}
+p {
+  font-family: arial;
+  margin: 0px;
+  font-size: 14px;
+}
+table.mainnav {
+  width: 100%;
+  background-color: #BB33FF;
+  padding: 5px;
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+  font-family: arial;
+}
+td.form {
+  font-family: arial;
+  color: #BB33FF;
+  font-weight: bold;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+footer {
+  background-color: #BB33FF;
+  font-family: arial;
+  color: #ffffff;
+  text-align: center;
+  font-size: 13px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+img.sideimage {
+  text-align: center;
+  margin-left: : auto;
+  margin-right: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+div {
+  font-family: arial;
+  color: #BB33FF;
+  font-weight: bold;
+  font-size: 13px;
+  margin-top: 10px;
+  text-align: center;
+}
+td.sidead {
+  text-align: center;
+  vertical-align: middle;
+}
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+a:hover {
+  background-color: #816D40;
+}

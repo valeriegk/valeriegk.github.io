@@ -1,0 +1,24 @@
+h1 {
+  color: red;
+  background-color: purple;
+}
+h3 {
+  color: blue;
+  background-color: grey;
+}
+.something-awesome {
+  color: green;
+  background-color: orange;
+  border: 5px dashed red;
+}
+.something-great {
+  border: 2px dashed yellow;
+  width: 25%;
+  padding: 100px
+  }
+#awesome-cat {
+  border-radius: 50%
+}
+.companylogo {
+  width: 10%
+}
